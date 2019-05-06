@@ -1,1 +1,1 @@
-Programming assigments of Coursera machine learning class(Andrew Ng, Stanford) in Python.
+Just another implementation of Coursera ML programming tasks in Python
