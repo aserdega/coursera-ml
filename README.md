@@ -1,1 +1,1 @@
-Just another implementation of Coursera ML programming tasks in Python
+Implementation of Andrew Ng's Coursera ML programming tasks in Python.
